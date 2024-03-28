@@ -3,3 +3,8 @@ D:\ThaiUnion\xECM\TUArtwork\ADDSOTMP\obj\Debug\ADDSOTMP.csproj.CoreCompileInputs
 D:\ThaiUnion\xECM\TUArtwork\ADDSOTMP\obj\Debug\ADDSOTMP.exe
 D:\ThaiUnion\xECM\TUArtwork\ADDSOTMP\obj\Debug\ADDSOTMP.pdb
 D:\ThaiUnion\xECM\TUArtwork\ADDSOTMP\obj\Debug\ADDSOTMP.exe.config
+D:\ThaiUnion\xECM\Artwork\ArtworkProj\ADDSOTMP\obj\Debug\ADDSOTMP.csproj.AssemblyReference.cache
+D:\ThaiUnion\xECM\Artwork\ArtworkProj\ADDSOTMP\obj\Debug\ADDSOTMP.exe.config
+D:\ThaiUnion\xECM\Artwork\ArtworkProj\ADDSOTMP\obj\Debug\ADDSOTMP.csproj.CoreCompileInputs.cache
+D:\ThaiUnion\xECM\Artwork\ArtworkProj\ADDSOTMP\obj\Debug\ADDSOTMP.exe
+D:\ThaiUnion\xECM\Artwork\ArtworkProj\ADDSOTMP\obj\Debug\ADDSOTMP.pdb

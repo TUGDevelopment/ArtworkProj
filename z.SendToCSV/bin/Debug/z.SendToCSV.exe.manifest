@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6cTpgh6bhFPlr0YuRO3m/fgOqW5f/wT4b4jZUPElz+8=</dsig:DigestValue>
+        <dsig:DigestValue>4JSOHJjfFptRqkXe8J9rpC3T19zYYSApKDjcdkw5wcY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -97,7 +97,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>u5lmpZheaxeJuLfe92wL5WKcqD7leHzTa4v5lfmpJzo=</dsig:DigestValue>
+        <dsig:DigestValue>e1uOFO33p1pjTDBy/2rIPQwZQ1yt/eHrBqa1dmy52BM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1441,7 +1441,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9T8q18HlJlvtWgVNl+yX/Owr+lBxODzxDn30IbIatUQ=</dsig:DigestValue>
+        <dsig:DigestValue>srR2Vtxe5SKhDPBGak32xBUoXh/IaKWiZ8v58B1WOKE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1454,22 +1454,22 @@
       <dsig:DigestValue>vZUlrgykbqxLYRukNBBpgPgRuG8Bi1Tr8IPMp65ar94=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scripts\jquery-2.1.1.js" size="247351">
+  <file name="Scripts\jquery-2.1.1.js" size="256541">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FA/0OOqu3gRvHOuidXnRbcmAWVcJORhz+pv3TX2+U6w=</dsig:DigestValue>
+      <dsig:DigestValue>uGUpo8HL9U+fPmTN2iRGlqCQ486sRuwnFQfrHTIi0FE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scripts\jquery-2.1.1.min.js" size="84245">
+  <file name="Scripts\jquery-2.1.1.min.js" size="84249">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>h0cGsrExGgcZtSZ/fRz4AwV+Nn6Urh/3v3jFRQ0w9dQ=</dsig:DigestValue>
+      <dsig:DigestValue>ss6EYtFz/JK2D5hwH0VENxDkI68bEVJadiAI/ywaAgQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Scripts\nugetexample.js" size="21">
