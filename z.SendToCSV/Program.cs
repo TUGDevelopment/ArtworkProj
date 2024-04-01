@@ -317,6 +317,7 @@ namespace z.SendToCSV
         public static void GetmasterUpdateToCSV(DataTable Results)
         {
 
+            DataRow[] list = Results.Select("changed_action='update' and Old_Description <>''");
             DataTable dt = new DataTable();
             dt.Columns.AddRange(new DataColumn[] { new DataColumn (@"IfColumn"),
                 new DataColumn(@"Characteristic Name RCTAV-ATNAM"),
@@ -328,7 +329,7 @@ namespace z.SendToCSV
             listMat.Columns.AddRange(new DataColumn[] { new DataColumn (@"Characteristic Name txtSP$00005-LOW.text"),
             new DataColumn(@"txtSP$00003 - LOW.text"),
             });
-            foreach (DataRow row in Results.Rows)
+            foreach (DataRow row in list)
             {
                 dt.Rows.Add(string.Format("{0}", row["Changed_Action"].ToString()),
                 string.Format("{0}", row["Changed_Charname"].ToString()),
