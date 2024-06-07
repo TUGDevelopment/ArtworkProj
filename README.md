@@ -1,2 +1,3 @@
 # ArtworkProj
-Artwork Last version
+- Artwork not Last version
+- Should compare the code on voravut 
